@@ -14,4 +14,3 @@ Cite 3 exemplos de VCS
 1.	GIT
 2.	Mercurial
 3.	SVN
-
